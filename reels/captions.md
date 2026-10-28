@@ -76,3 +76,74 @@ Shelley Home Group of Cummings & Co Realtors
 1. Make sure the MOVING guide and the local guide are ready to send with an email signup, or comments turn into lost leads.
 2. Add trending audio inside Instagram. The videos have no sound on purpose.
 3. Pick a cover frame where the hook text shows.
+
+## Reel 3: Hayride montage, October 30 (Mix 3, keyword FALL)
+
+Hook on screen: Some of you have never done a hayride here and it shows.
+
+### Caption option A (local pride)
+Some of you have never done a Carroll County hayride and it shows 🍂🚜
+
+Hayrides. Pumpkin walls. Pumpkin Mountain. Golden hour sunsets you can't get anywhere else.
+
+Tag the friend who still hasn't been 👇
+
+Comment FALL and I'll send you my Carroll County fall guide with the best farms, hayrides and fall weekends close to home 🎃
+
+I'm Nikki, a local sports mom, foodie and home enthusiast! 🏡
+Nikki Nail | REALTOR®
+Shelley Home Group of Cummings & Co Realtors
+📱 410.746.6238
+✉️ nikki@theshelleyhomegroup.com
+
+#CarrollCountyMD #MarylandFall #WestminsterMD #PumpkinPatchMD #CarrollCountyRealEstate
+
+### Caption option B (question bait)
+Be honest. How many Carroll County fall traditions have you checked off this year? 🎃
+
+🚜 Hayride
+🎃 Pumpkin wall photo
+⛰️ Pumpkin Mountain
+🌅 Sunset at the farm
+
+Drop your number below 👇 and comment FALL for my free fall guide before the season ends 🍁
+
+Nikki Nail | REALTOR®
+Shelley Home Group of Cummings & Co Realtors
+
+#CarrollCountyMD #MarylandFall #EldersburgMD #SykesvilleMD #CarrollCounty
+
+## Reel 4: Crowds montage, October 31 (Mix 1, keyword HOME)
+
+Hook on screen: Fine, the crowds are worth it in Carroll County.
+
+### Caption option A (Halloween weekend)
+Fine, the crowds are worth it 📍 Carroll County 🎃
+
+Pumpkin patch nights. Hometown parades. Running into half the town everywhere you go.
+
+This is why families stay here for generations 💜
+
+Tag your Halloween crew 👇 and comment HOME if Carroll County is yours. I'll send you my local guide.
+
+I'm Nikki, a local sports mom, foodie and home enthusiast! 🏡
+Nikki Nail | REALTOR®
+Shelley Home Group of Cummings & Co Realtors
+📱 410.746.6238
+✉️ nikki@theshelleyhomegroup.com
+
+#CarrollCountyMD #CarrollCountyHalloween #WestminsterMD #HometownParade #MarylandLiving
+
+### Caption option B (thinking of moving here)
+Thinking about moving to Carroll County? Here's your warning ⚠️
+
+The pumpkin patches get packed. The parades take over Main Street. And you'll never make a quick Target run without seeing someone you know.
+
+Worth it every single time 💜
+
+Comment HOME and I'll send you my Carroll County local guide with the towns, schools and spots families love.
+
+Nikki Nail | REALTOR®
+Shelley Home Group of Cummings & Co Realtors
+
+#CarrollCountyMD #MovingToMaryland #WestminsterMD #EldersburgMD #CarrollCountyRealEstate
