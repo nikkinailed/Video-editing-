@@ -1,0 +1,14 @@
+{"layers":[
+ {"y":240,"end":10.0,"lines":[
+  {"text":"SOME OF YOU HAVE NEVER","fontname":"Cobbler","size":40,"spacing":8},
+  {"text":"raced down","fontname":"Advercase","size":124},
+  {"text":"pumpkin mountain","fontname":"Advercase","size":124},
+  {"text":"and it shows","fontname":"Literature","size":56},
+  {"text":"📍 Carroll County","fontname":"Literature","size":46}]},
+ {"y":930,"start":10.0,"lines":[
+  {"text":"SOME OF YOU HAVE NEVER","fontname":"Cobbler","size":40,"spacing":8},
+  {"text":"raced down","fontname":"Advercase","size":124},
+  {"text":"pumpkin mountain","fontname":"Advercase","size":124},
+  {"text":"and it shows","fontname":"Literature","size":56},
+  {"text":"📍 Carroll County","fontname":"Literature","size":46}]}],
+ "cta":{"text":"COMMENT FALL","fontname":"Cobbler","size":36,"spacing":8},"cta_secs":3}
