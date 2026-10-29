@@ -4,9 +4,9 @@ Every Tuesday make 3 brand new quote graphics in Nikki's voice.
 
 ## Writing the quotes
 * Load the nikki-nail-brand-voice skill first.
-* Nikki's favorites so far are in samples/option1-sidelines.png (sports mom sidelines) and samples/option3-someday.png (someday is not a plan). Match that feel: short, warm, a little life lesson, with family, home, saying yes, Carroll County life, sports mom moments, fitness, food with friends.
+* Nikki's favorites so far are in samples/option1-sidelines.png (sports mom sidelines) and samples/option3-someday.png (someday is not a plan). Match that feel: short, warm, a little life lesson, with family, home, the right fit, saying yes, Carroll County life, sports mom moments, fitness, food with friends.
 * Never use hyphens, dashes or semicolons. Never use the banned words in the voice skill.
-* Speak to Nikki's audience: sellers, move up families selling one home and buying the next, and families relocating to Carroll County. Mix life lesson quotes with ones that gently show she is their person.
+* Nikki is a RIGHTSIZING realtor. This overrides the voice skill's move up focus. Rightsizing means downsizing, moving up or just finding what fits you and your family right now. Never frame her as only a move up agent. Speak to sellers, rightsizers of every stage (empty nesters, growing families, people selling a parent's home) and families relocating to Carroll County. Mix life lesson quotes with ones that gently show she is their person.
 * Never repeat a quote listed in used-quotes.md. Add the new three there.
 * Use curly quotes and apostrophes. Put the emotional line in <em> italics, like the samples.
 * A small NIKKI NAIL signature sits at the bottom (render.js adds it). No lavender or purple.
