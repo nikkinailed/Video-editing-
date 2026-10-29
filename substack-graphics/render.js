@@ -59,8 +59,8 @@ const page = (q, photoUrl) => {
     ${photo && ink === 'light' ? 'text-shadow:0 2px 18px rgba(40,28,18,.5);' : ''}}
   em{font-style:italic}
   .sp{position:absolute}
-  .sig{position:absolute;bottom:56px;left:0;right:0;text-align:center;font-family:'Montserrat',sans-serif;
-    font-size:18px;letter-spacing:5px;text-transform:uppercase;color:${sparkColor};${photo && ink === 'light' ? 'text-shadow:0 1px 8px rgba(40,28,18,.5);' : ''}}
+  .sig{position:absolute;bottom:52px;left:0;right:0;text-align:center;font-family:'Montserrat',sans-serif;font-weight:500;
+    font-size:26px;letter-spacing:7px;text-transform:uppercase;color:${sparkColor};${photo && ink === 'light' ? 'text-shadow:0 1px 8px rgba(40,28,18,.5);' : ''}}
 </style></head><body>
 <div class="card">
   ${photo ? '<div class="photo"></div><div class="tint"></div>' : creamLayers}
