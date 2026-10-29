@@ -140,3 +140,51 @@ Nikki Nail | REALTOR®
 Shelley Home Group of Cummings & Co Realtors
 
 #CarrollCountyMD #CarrollCountyRealEstate #EldersburgMD #MountAiryMD #MarylandHomes
+
+## Porch rightsizing version A (porch_rightsize_v3.mp4), keyword MOVING
+On screen, in order:
+1. that feeling when you stop taking care of a house you're never home for
+2. too many rooms to clean, a yard you never use, gone every weekend for travel sports
+3. less house, more life
+4. COMMENT MOVING for my free rightsizing guide (what your home could sell for)
+
+### Caption
+Raise your hand if your house gets more attention on Sunday night than you do 🙋‍♀️
+
+Too many rooms to clean. A yard you mow but never sit in. And every weekend you're on a field two hours away for travel sports anyway.
+
+Rightsizing isn't giving something up. It's getting your weekends back.
+
+Comment MOVING and I'll send you my free rightsizing guide with what your home could sell for and how to plan the next move without the stress.
+
+I'm Nikki, a local sports mom, foodie and home enthusiast! 🏡
+Nikki Nail | REALTOR®
+Shelley Home Group of Cummings & Co Realtors
+📱 410.746.6238
+✉️ nikki@theshelleyhomegroup.com
+
+#CarrollCountyMD #CarrollCountyRealEstate #Rightsizing #TravelSportsMom #MarylandHomes
+
+## Porch rightsizing version B (porch_land_v3.mp4), keyword MOVING
+On screen, in order:
+1. too much house, not enough land
+2. bedrooms nobody uses, a backyard you can see across, and no room to roam
+3. trade the square footage for acreage
+4. COMMENT MOVING for my free move guide (what your home could sell for)
+
+### Caption
+Too much house. Not enough land. 🌾
+
+Bedrooms nobody sleeps in. A backyard you can see across in two steps. And kids and dogs with nowhere to roam.
+
+Sometimes the right move isn't bigger. It's more land and a house that fits how you actually live.
+
+Comment MOVING and I'll send you my free move guide with what your home could sell for and what homes with land look like in Carroll County right now.
+
+I'm Nikki, a local sports mom, foodie and home enthusiast! 🏡
+Nikki Nail | REALTOR®
+Shelley Home Group of Cummings & Co Realtors
+📱 410.746.6238
+✉️ nikki@theshelleyhomegroup.com
+
+#CarrollCountyMD #CarrollCountyRealEstate #HomesWithLand #Rightsizing #MarylandHomes

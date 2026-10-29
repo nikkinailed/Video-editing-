@@ -44,3 +44,18 @@ json.dump(dict(segments=[v("2ac4d0fc-IMG_7325.mov",0,13.0,speed=0.38)],
         beat(6.2,9.2,170,[L("no more",48),A("everyone on top of",104),A("each other at night",104)],max_y=640),
         beat(9.2,14,170,[C("COMMENT MOVING"),A("for my free",100),A("move up guide",100),L("what your home could sell for",42)],max_y=640)]),
  open(O+"porch.json","w"))
+
+# Porch rightsizing versions, reuse the slow porch footage
+PB="/tmp/claude-0/-home-user-Video-editing-/2ff7ae43-88db-5b34-b1bf-56000836fa59/scratchpad/layers/porch_v3.mp4/base.mp4"
+json.dump(dict(base=PB,
+ beats=[beat(0,3.2,170,[L("that feeling when you stop",48),A("taking care of a house",100),A("you're never home for",100)],max_y=640),
+        beat(3.2,6.2,170,[L("too many rooms to clean",48),L("a yard you never use",48),A("gone every weekend",104),A("for travel sports",104)],max_y=640),
+        beat(6.2,9.2,170,[L("less house",48),A("more life",116)],max_y=640),
+        beat(9.2,14,170,[C("COMMENT MOVING"),A("for my free",100),A("rightsizing guide",100),L("what your home could sell for",42)],max_y=640)]),
+ open(O+"porch_rightsize.json","w"))
+json.dump(dict(base=PB,
+ beats=[beat(0,3.2,170,[L("too much house",52),A("not enough land",116)],max_y=640),
+        beat(3.2,6.2,170,[L("bedrooms nobody uses",48),L("a backyard you can see across",48),A("and no room to roam",104)],max_y=640),
+        beat(6.2,9.2,170,[L("trade the square footage",48),A("for acreage",116)],max_y=640),
+        beat(9.2,14,170,[C("COMMENT MOVING"),A("for my free",100),A("move guide",100),L("what your home could sell for",42)],max_y=640)]),
+ open(O+"porch_land.json","w"))
