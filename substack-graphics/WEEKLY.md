@@ -11,7 +11,7 @@ Every Tuesday make 3 brand new quote graphics in Nikki's voice.
 * No name or signature on the graphic. No lavender or purple.
 
 ## Mixing photo and cream looks
-* Photos come from the Google Drive folder named "Substack Quote Photos". Download the image into the week folder.
+* Photos come from substack-graphics/photos in this repo, or the Google Drive folder named "Substack Quote Photos" when Google Drive is connected. Copy the image into the week folder.
 * Never reuse a photo listed in used-photos.md. Add each one you use there.
 * Alternate weeks: odd ISO weeks are 2 cream + 1 photo, even ISO weeks are 1 cream + 2 photo. Order them cream, photo, cream or photo, cream, photo.
 * If there are not enough unused photos, use cream for the rest and mention it.
