@@ -1,0 +1,8 @@
+[
+  { "file": "quote1-kitchen-island.png", "style": "cream", "size": 96,
+    "html": "The house was<br>never the point.<br><em>It was always<br>the people around<br>the kitchen island.</em>" },
+  { "file": "quote2-cleats.png", "style": "cream", "size": 92,
+    "html": "One day<br>the cleats won’t fit.<br><em>Soak up every<br>muddy, noisy,<br>beautiful minute.</em>" },
+  { "file": "quote3-first-step.png", "style": "cream", "size": 98,
+    "html": "You don’t need<br>a perfect plan.<br><em>You need a first step<br>and someone<br>in your corner.</em>" }
+]
