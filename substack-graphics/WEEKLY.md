@@ -9,7 +9,7 @@ Every Tuesday make 3 brand new quote graphics in Nikki's voice.
 * Speak to Nikki's audience: sellers, move up families selling one home and buying the next, and families relocating to Carroll County. Mix life lesson quotes with ones that gently show she is their person.
 * Never repeat a quote listed in used-quotes.md. Add the new three there.
 * Use curly quotes and apostrophes. Put the emotional line in <em> italics, like the samples.
-* No name or signature on the graphic. No lavender or purple.
+* A small NIKKI NAIL signature sits at the bottom (render.js adds it). No lavender or purple.
 
 ## Mixing photo and cream looks
 * Photos come from substack-graphics/photos in this repo, or the Google Drive folder named "Substack Quote Photos" when Google Drive is connected. Copy the image into the week folder.

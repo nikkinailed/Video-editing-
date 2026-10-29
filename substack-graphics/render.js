@@ -41,7 +41,7 @@ const page = (q, photoUrl) => {
   const textColor = photo && ink === 'light' ? '#fbf6ee' : '#5b4636';
   const sparkColor = photo && ink === 'light' ? '#f3e6d3' : '#8a6f55';
   return `<!doctype html><html><head>
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400&family=Montserrat:wght@400;500&display=swap" rel="stylesheet">
 <style>
   html,body{margin:0}
   .card{width:1080px;height:1350px;position:relative;overflow:hidden;
@@ -59,11 +59,14 @@ const page = (q, photoUrl) => {
     ${photo && ink === 'light' ? 'text-shadow:0 2px 18px rgba(40,28,18,.5);' : ''}}
   em{font-style:italic}
   .sp{position:absolute}
+  .sig{position:absolute;bottom:56px;left:0;right:0;text-align:center;font-family:'Montserrat',sans-serif;
+    font-size:18px;letter-spacing:5px;text-transform:uppercase;color:${sparkColor};${photo && ink === 'light' ? 'text-shadow:0 1px 8px rgba(40,28,18,.5);' : ''}}
 </style></head><body>
 <div class="card">
   ${photo ? '<div class="photo"></div><div class="tint"></div>' : creamLayers}
   ${sparkles(sparkColor)}
   <div class="quote"><div>${q.html}</div></div>
+  <div class="sig">Nikki Nail</div>
 </div></body></html>`;
 };
 
