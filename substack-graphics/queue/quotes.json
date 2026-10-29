@@ -1,0 +1,58 @@
+[
+  {
+    "file": "a-office-smiling.png",
+    "style": "photo",
+    "photo": "../photos/office-smiling.jpg",
+    "position": "bottom",
+    "ink": "dark",
+    "size": 68,
+    "html": "Selling one home and<br>buying the next at once?<br><em>Breathe. That’s exactly<br>what I’m here for.</em>",
+    "pad": 200
+  },
+  {
+    "file": "b-office-looking-away.png",
+    "style": "photo",
+    "photo": "../photos/office-looking-away.jpg",
+    "position": "bottom",
+    "ink": "dark",
+    "size": 66,
+    "html": "You don’t have to have<br>it all figured out.<br><em>You just need someone<br>who’s done this 1,200 times.</em>",
+    "pad": 200
+  },
+  {
+    "file": "c-sunset-field.png",
+    "style": "photo",
+    "photo": "../photos/sunset-field.jpg",
+    "position": "bottom",
+    "ink": "light",
+    "size": 78,
+    "html": "The next home isn’t<br>about more square feet.<br><em>It’s about more room<br>for the life you want.</em>"
+  },
+  {
+    "file": "d-moon-fall-trees.png",
+    "style": "photo",
+    "photo": "../photos/moon-fall-trees.jpg",
+    "position": "bottom",
+    "ink": "light",
+    "size": 78,
+    "html": "Some places<br>you move to.<br><em>Others you come home to.</em><br>Carroll County<br>is the second kind."
+  },
+  {
+    "file": "e-pumpkin-farm.png",
+    "style": "photo",
+    "photo": "../photos/pumpkin-farm.jpg",
+    "position": "top",
+    "ink": "light",
+    "size": 80,
+    "html": "Farm stands, fall Saturdays<br>and a backyard big enough<br><em>for every bit of it.</em>"
+  },
+  {
+    "file": "f-bike-trail.png",
+    "style": "photo",
+    "photo": "../photos/bike-trail-close.jpg",
+    "position": "bottom",
+    "ink": "light",
+    "size": 80,
+    "html": "Quieter streets.<br>Room to ride.<br><em>This is what<br>moving up is really for.</em>"
+  }
+]
