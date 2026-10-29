@@ -11,6 +11,13 @@ Every Tuesday make 3 brand new quote graphics in Nikki's voice.
 * Use curly quotes and apostrophes. Put the emotional line in <em> italics, like the samples.
 * A small NIKKI NAIL signature sits at the bottom (render.js adds it). No lavender or purple.
 
+## Captions
+* Write 2 short and sweet caption options per graphic in Nikki's voice (one or two sentences, often ending with a question). Same rules: no hyphens, dashes or semicolons. Add them as "captions" in quotes.json and in the handoff file.
+* Nikki grew up in Hereford, MD (Baltimore County). Don't say she grew up in Carroll County.
+
+## Photo reminder
+* Count photos in substack-graphics/photos not listed in used-photos.md, plus unused queue graphics. If fewer than 3 are left, remind Nikki in your message to send new photos.
+
 ## Mixing photo and cream looks
 * Photos come from substack-graphics/photos in this repo, or the Google Drive folder named "Substack Quote Photos" when Google Drive is connected. Copy the image into the week folder.
 * Before making new quotes, check the queue folder. Any ready graphic there that is not in used-quotes.md can be used as one of the week's photo graphics (move it into the week folder and log it).

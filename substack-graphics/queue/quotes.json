@@ -7,7 +7,11 @@
     "ink": "dark",
     "size": 68,
     "html": "Selling one home and<br>buying the next at once?<br><em>Breathe. That’s exactly<br>what I’m here for.</em>",
-    "pad": 200
+    "pad": 200,
+    "captions": [
+      "Selling and buying at the same time is my favorite puzzle. You don’t have to solve it alone.",
+      "Two moves, one plan, zero panic. That’s my job. Talk soon!"
+    ]
   },
   {
     "file": "b-office-looking-away.png",
@@ -17,7 +21,11 @@
     "ink": "dark",
     "size": 66,
     "html": "You don’t have to have<br>it all figured out.<br><em>You just need someone<br>who’s done this 1,200 times.</em>",
-    "pad": 200
+    "pad": 200,
+    "captions": [
+      "1,200 families and counting. Whatever your question is, I’ve probably heard it. Ask away!",
+      "You bring the questions. I’ll bring 23 years of answers."
+    ]
   },
   {
     "file": "c-sunset-field.png",
@@ -26,7 +34,11 @@
     "position": "bottom",
     "ink": "light",
     "size": 78,
-    "html": "The next home isn’t<br>about more square feet.<br><em>It’s about more room<br>for the life you want.</em>"
+    "html": "The next home isn’t<br>about more square feet.<br><em>It’s about more room<br>for the life you want.</em>",
+    "captions": [
+      "Moving up is really about making room for the life you want. What would you do with a little more space?",
+      "Golden hour in Carroll County never gets old. Neither does helping families find their next chapter."
+    ]
   },
   {
     "file": "d-moon-fall-trees.png",
@@ -35,7 +47,11 @@
     "position": "bottom",
     "ink": "light",
     "size": 78,
-    "html": "Some places<br>you move to.<br><em>Others you come home to.</em><br>Carroll County<br>is the second kind."
+    "html": "Some places<br>you move to.<br><em>Others you come home to.</em><br>Carroll County<br>is the second kind.",
+    "captions": [
+      "Carroll County has a way of feeling like home fast. Ask me anything about making the move.",
+      "Fall nights like this are why so many families move here and never leave."
+    ]
   },
   {
     "file": "e-pumpkin-farm.png",
@@ -44,7 +60,11 @@
     "position": "top",
     "ink": "light",
     "size": 80,
-    "html": "Farm stands, fall Saturdays<br>and a backyard big enough<br><em>for every bit of it.</em>"
+    "html": "Farm stands, fall Saturdays<br>and a backyard big enough<br><em>for every bit of it.</em>",
+    "captions": [
+      "Farm stand season is the best season. Where’s your favorite Carroll County fall stop?",
+      "Room for the pumpkins, the leaf piles and the whole crew. That’s the dream, right?"
+    ]
   },
   {
     "file": "f-bike-trail.png",
@@ -53,6 +73,10 @@
     "position": "bottom",
     "ink": "light",
     "size": 80,
-    "html": "Quieter streets.<br>Room to ride.<br><em>This is what<br>moving up is really for.</em>"
+    "html": "Quieter streets.<br>Room to ride.<br><em>This is what<br>moving up is really for.</em>",
+    "captions": [
+      "Bikes on the trail and no rush to get home. This is what moving up is really about.",
+      "More room to ride, play and breathe. What does your family need more of in your next home?"
+    ]
   }
 ]

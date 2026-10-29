@@ -1,8 +1,32 @@
 [
-  { "file": "quote1-kitchen-island.png", "style": "cream", "size": 96,
-    "html": "The house was<br>never the point.<br><em>It was always<br>the people around<br>the kitchen island.</em>" },
-  { "file": "quote2-cleats.png", "style": "cream", "size": 92,
-    "html": "One day<br>the cleats won’t fit.<br><em>Soak up every<br>muddy, noisy,<br>beautiful minute.</em>" },
-  { "file": "quote3-first-step.png", "style": "cream", "size": 98,
-    "html": "You don’t need<br>a perfect plan.<br><em>You need a first step<br>and someone<br>in your corner.</em>" }
+  {
+    "file": "quote1-kitchen-island.png",
+    "style": "cream",
+    "size": 96,
+    "html": "The house was<br>never the point.<br><em>It was always<br>the people around<br>the kitchen island.</em>",
+    "captions": [
+      "Every home I’ve ever loved had a crowded kitchen island. What’s the best memory made around yours?",
+      "The countertops matter less than who’s leaning on them. Who’s always at your island?"
+    ]
+  },
+  {
+    "file": "quote2-cleats.png",
+    "style": "cream",
+    "size": 92,
+    "html": "One day<br>the cleats won’t fit.<br><em>Soak up every<br>muddy, noisy,<br>beautiful minute.</em>",
+    "captions": [
+      "Saturday sidelines, cold coffee and the best seat in the house. Soak it up, friends.",
+      "To every parent in a folding chair this weekend: these are the good days."
+    ]
+  },
+  {
+    "file": "quote3-first-step.png",
+    "style": "cream",
+    "size": 98,
+    "html": "You don’t need<br>a perfect plan.<br><em>You need a first step<br>and someone<br>in your corner.</em>",
+    "captions": [
+      "Thinking about your next move but not sure where to start? Start with a coffee and a conversation. I’m in your corner.",
+      "Nobody has it all mapped out. Take one small step this week. What’s yours?"
+    ]
+  }
 ]
