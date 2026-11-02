@@ -1,6 +1,6 @@
 # Reels v3: hook, pain point, payoff, clear CTA (drafts for Nikki to approve)
 
-Keywords: LOCAL = Carroll County local guide. HOME = home buyer guide. MOVING = move up guide. FALL = fall guide.
+Keywords: NEXT = Next Chapter rightsizing guide. LOCAL = Carroll County local guide. HOME = home buyer guide. MOVING = move up guide. FALL = fall guide.
 Add soft trending audio in Instagram or Edits.
 
 ## Oct 29: Pumpkin field (pumpkin_v3.mp4), one slow clip, keyword LOCAL
@@ -141,12 +141,12 @@ Shelley Home Group of Cummings & Co Realtors
 
 #CarrollCountyMD #CarrollCountyRealEstate #EldersburgMD #MountAiryMD #MarylandHomes
 
-## Porch rightsizing version A (porch_rightsize_v3.mp4), keyword MOVING
+## Porch rightsizing version A (porch_rightsize_v3.mp4), keyword NEXT
 On screen, in order:
 1. that feeling when you stop taking care of a house you're never home for
 2. too many rooms to clean, a yard you never use, gone every weekend for travel sports
 3. less house, more life
-4. COMMENT MOVING for my free rightsizing guide (what your home could sell for)
+4. COMMENT NEXT for my free next chapter guide (rightsizing made simple)
 
 ### Caption
 Raise your hand if your house gets more attention on Sunday night than you do 🙋‍♀️
@@ -155,7 +155,7 @@ Too many rooms to clean. A yard you mow but never sit in. And every weekend you'
 
 Rightsizing isn't giving something up. It's getting your weekends back.
 
-Comment MOVING and I'll send you my free rightsizing guide with what your home could sell for and how to plan the next move without the stress.
+Comment NEXT and I'll send you my free Next Chapter Guide: the signs it's time, buy first or sell first, your numbers worksheet and a simple 90 day plan.
 
 I'm Nikki, a local sports mom, foodie and home enthusiast! 🏡
 Nikki Nail | REALTOR®
@@ -165,12 +165,12 @@ Shelley Home Group of Cummings & Co Realtors
 
 #CarrollCountyMD #CarrollCountyRealEstate #Rightsizing #TravelSportsMom #MarylandHomes
 
-## Porch rightsizing version B (porch_land_v3.mp4), keyword MOVING
+## Porch rightsizing version B (porch_land_v3.mp4), keyword NEXT
 On screen, in order:
 1. too much house, not enough land
 2. bedrooms nobody uses, a backyard you can see across, and no room to roam
 3. trade the square footage for acreage
-4. COMMENT MOVING for my free move guide (what your home could sell for)
+4. COMMENT NEXT for my free next chapter guide (more land, less upkeep)
 
 ### Caption
 Too much house. Not enough land. 🌾
@@ -179,7 +179,7 @@ Bedrooms nobody sleeps in. A backyard you can see across in two steps. And kids 
 
 Sometimes the right move isn't bigger. It's more land and a house that fits how you actually live.
 
-Comment MOVING and I'll send you my free move guide with what your home could sell for and what homes with land look like in Carroll County right now.
+Comment NEXT and I'll send you my free Next Chapter Guide with my Carroll County land checklist, buy first or sell first options and a simple 90 day plan.
 
 I'm Nikki, a local sports mom, foodie and home enthusiast! 🏡
 Nikki Nail | REALTOR®
