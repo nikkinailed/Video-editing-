@@ -150,11 +150,11 @@ Shelley Home Group of Cummings & Co Realtors
 
 ## Reel 5: 3 reasons families love downtown Westminster (Mix 2, keyword LOCAL)
 
-Hook test: two versions, identical except the opening words.
-* Hook A: reels/westminster_hookA_3reasons.mp4 opens with "3 reasons families love living near downtown Westminster"
-* Hook B: reels/westminster_hookB_why.mp4 opens with "Why families love living near downtown Westminster"
+Test: two versions with a different hook AND a different ending.
+* Version A: reels/westminster_hookA_3reasons_local.mp4. Opens "3 reasons families love living near downtown Westminster", ends "Comment LOCAL for my free Carroll County guide: farms, parks + family spots". Use caption A or B.
+* Version B: reels/westminster_hookB_why_follow.mp4. Opens "Why families love living near downtown Westminster", ends "Follow for more Carroll County local spots from a local who loves it here". Use caption C.
 
-Both are 19 seconds with no sound so you can add a trending song in Instagram. For a fair test, use the same caption, song and posting time of day on both, a few days apart. Compare views, average watch time and shares after 7 days each.
+Both are 19 seconds with no sound so you can add a trending song in Instagram. Use the same song and time of day on both, a few days apart. After 7 days each compare views, watch time, shares, new followers (B's goal) and LOCAL comments (A's goal).
 
 On screen (after the hook): Walk to dinner, coffee and shops. Local shops that know your name. Fall on Main Street is a whole mood. Comment LOCAL for my free Carroll County guide: farms, parks + family spots.
 
@@ -188,3 +188,15 @@ Nikki Nail | REALTOR®
 Shelley Home Group of Cummings & Co Realtors
 
 #WestminsterMD #CarrollCountyMD #RightsizingMD #DownsizingMaryland #CarrollCountyRealEstate
+
+### Caption option C (for version B, follow ending)
+Why do so many families fall for downtown Westminster? 🍂
+
+Dinner, coffee and shops a walk away. Shop owners who know your name. And fall on Main Street that hits different every single year.
+
+Follow along for more of my favorite Carroll County spots from a local who loves it here 💜
+
+Nikki Nail | REALTOR®
+Shelley Home Group of Cummings & Co Realtors
+
+#WestminsterMD #CarrollCountyMD #MainStreetWestminster #MarylandFall #CarrollCountyRealEstate
