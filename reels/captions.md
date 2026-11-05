@@ -150,7 +150,7 @@ Shelley Home Group of Cummings & Co Realtors
 
 ## Reel 5: 3 reasons families love downtown Westminster (Mix 2, keyword LOCAL)
 
-File: reels/westminster_3reasons_mix2.mp4 (20 seconds, no sound so you can add a trending song in Instagram)
+File: reels/westminster_3reasons_mix2.mp4 (19 seconds, no sound so you can add a trending song in Instagram)
 
 On screen: 3 reasons families love living near downtown Westminster. 1. Walk to dinner, coffee and shops. 2. Local shops that know your name. 3. Fall on Main Street is a whole mood. Comment LOCAL for my free Carroll County guide: farms, parks + family spots.
 

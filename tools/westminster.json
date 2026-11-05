@@ -60,7 +60,7 @@
   },
   {
    "seg": 7,
-   "y": 1080,
+   "y": 260,
    "lines": [
     [
      "3.",
@@ -77,7 +77,7 @@
    ]
   },
   {
-   "seg": 9,
+   "seg": 8,
    "y": 1000,
    "lines": [
     [
@@ -134,14 +134,9 @@
    "dur": 2.0
   },
   {
-   "src": "/root/.claude/uploads/e710ced6-f643-51c7-9ada-d0f48dc71f03/5f09066b-IMG_7481.mov",
-   "start": 1.0,
-   "dur": 2.0
-  },
-  {
-   "src": "/root/.claude/uploads/e710ced6-f643-51c7-9ada-d0f48dc71f03/45e65e49-IMG_7477.mov",
-   "start": 0.4,
-   "dur": 2.0
+   "src": "/root/.claude/uploads/e710ced6-f643-51c7-9ada-d0f48dc71f03/3594e74a-IMG_7774.mov",
+   "start": 0,
+   "dur": 2.95
   },
   {
    "src": "/root/.claude/uploads/e710ced6-f643-51c7-9ada-d0f48dc71f03/8f5038e3-IMG_7485.mov",
