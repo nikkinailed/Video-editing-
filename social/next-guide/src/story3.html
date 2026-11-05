@@ -1,0 +1,35 @@
+<!doctype html><html><head><meta charset='utf-8'><style>
+@font-face{font-family:Advercase;src:url(instrument-serif-400-normal.ttf)}
+@font-face{font-family:Advercase;font-style:italic;src:url(instrument-serif-400-italic.ttf)}
+@font-face{font-family:Literature;src:url(literata-400-normal.ttf)}
+@font-face{font-family:Cobbler;src:url(nunito-900-normal.ttf)}
+@font-face{font-family:Poster;src:url(fraunces-900-normal.ttf)}
+:root{--purple:#a428d6;--blush:#fbf4fb;--pink:#e0bbdf;--ink:#2b1a33;--soft:#6b5873}
+*{box-sizing:border-box;margin:0}
+body{width:1080px;height:1920px;overflow:hidden;font-family:Literature,'Noto Color Emoji',serif;color:var(--ink);background:var(--blush);position:relative}
+.bg{position:absolute;inset:0;background-size:cover;background-position:center}
+.shade{position:absolute;inset:0;background:linear-gradient(180deg,rgba(28,12,34,.55) 0%,rgba(28,12,34,.15) 45%,rgba(28,12,34,.65) 100%)}
+.cob{font-family:Cobbler;letter-spacing:.22em;text-transform:uppercase}
+.adv{font-family:Advercase;font-weight:400;line-height:.98}
+.adv i{font-style:italic;color:var(--pink)}
+.pos{font-family:Poster}
+.white{color:#fff}
+.pill{display:inline-block;background:var(--purple);color:#fff;font-family:Cobbler,'Noto Color Emoji';letter-spacing:.18em;border-radius:999px}
+.card{background:#fff;border-radius:28px;box-shadow:0 18px 50px rgba(90,30,110,.18)}
+.ba{display:grid;grid-template-columns:auto 1fr;gap:18px 26px;align-items:start}
+.tag{font-family:Cobbler;letter-spacing:.18em;font-size:24px;color:var(--purple);padding-top:10px}
+.foot{position:absolute;left:80px;right:80px;bottom:56px;display:flex;justify-content:space-between;font-family:Cobbler;letter-spacing:.16em;font-size:22px;color:var(--soft);text-transform:uppercase}
+</style></head><body><div style='position:absolute;inset:0;background:var(--blush)'></div>
+<div style='position:absolute;left:90px;right:110px;top:290px;display:flex;flex-direction:column;gap:34px'>
+ <div class='cob' style='font-size:28px;color:var(--purple);text-align:center'>A PEEK INSIDE</div>
+ <div style='display:flex;gap:40px;align-items:center'>
+  <div class='card' style='flex:0 0 340px;height:440px;padding:26px;background:linear-gradient(160deg,#fbf4fb,#e0bbdf);display:flex;flex-direction:column;justify-content:space-between'>
+   <div class='adv' style='font-size:62px'>Your Next<br><i style='color:var(--purple)'>Home</i><br>Guide</div>
+   <div style='height:170px;border-radius:16px;background:url(nikki.jpg) center 30%/cover;border:5px solid #fff'></div>
+  </div>
+  <div style='display:flex;flex-direction:column;gap:22px;font-size:36px;line-height:1.25'>
+   <div>✔️ 10 signs it's time</div><div>✔️ Buy first or sell first</div><div>✔️ Your equity calculator</div><div>✔️ Carroll County land checklist</div><div>✔️ A 90 day plan</div>
+  </div>
+ </div>
+ <div class='card' style='padding:34px 40px;font-size:38px;line-height:1.35;text-align:center'>Too much mowing for a travel sports family?<br>A hilly yard where the ball rolls away?<br><b class='pos' style='color:var(--purple)'>There's a page for that.</b></div>
+</div></body></html>
