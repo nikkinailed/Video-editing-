@@ -1,0 +1,221 @@
+<title>Your Next Home Guide</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Literata:opsz,wght@7..72,400;7..72,600&family=Nunito:wght@800;900&family=Fraunces:opsz,wght@9..144,800&display=swap">
+<style>
+/* Layout: one calm reading column, a photo led cover, then numbered steps of a real process ending in a call to book */
+:root{
+  --bg:#fbf4fb; --card:#ffffff; --ink:#2b1a33; --soft:#6b5873; --accent:#a428d6; --pink:#e0bbdf; --line:#ecd6eb; --tint:#f3e2f3; --onaccent:#ffffff;
+  --display:"Instrument Serif",Georgia,serif; --body:"Literata",Georgia,serif; --label:"Nunito",system-ui,sans-serif; --bold:"Fraunces",Georgia,serif;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#1c1220; --card:#28192e; --ink:#f6eaf7; --soft:#cbb6d1; --accent:#c76df0; --pink:#6e3f78; --line:#3d2845; --tint:#33203a; --onaccent:#1c1220; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#1c1220; --card:#28192e; --ink:#f6eaf7; --soft:#cbb6d1; --accent:#c76df0; --pink:#6e3f78; --line:#3d2845; --tint:#33203a; --onaccent:#1c1220; color-scheme:dark}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:17px;line-height:1.6}
+.wrap{max-width:720px;margin:0 auto;padding-block:28px 56px;padding-left:max(16px, env(safe-area-inset-left, 0px));padding-right:max(16px, env(safe-area-inset-right, 0px));display:flex;flex-direction:column;gap:48px}
+.kicker{font-family:var(--label);font-weight:900;letter-spacing:.2em;font-size:12px;text-transform:uppercase;color:var(--accent);margin:0}
+h1,h2{font-family:var(--display);font-weight:400;text-wrap:balance;margin:0}
+h1{font-size:clamp(56px,15vw,96px);line-height:.92}
+h1 i,h2 i{color:var(--accent)}
+h2{font-size:clamp(34px,8vw,48px);line-height:1.02}
+h3{font-family:var(--bold);font-weight:800;font-size:19px;margin:0;color:var(--accent);text-wrap:balance}
+p{margin:0}
+.lead{color:var(--soft);font-size:18px;max-width:60ch}
+.small{color:var(--soft);font-size:14.5px}
+section{display:flex;flex-direction:column;gap:18px}
+.cover{display:grid;grid-template-columns:1.2fr 1fr;gap:24px;align-items:end}
+.cover .text{display:flex;flex-direction:column;gap:16px;min-width:0}
+.badge{align-self:flex-start;background:var(--accent);color:var(--onaccent);font-family:var(--label);font-weight:900;letter-spacing:.16em;font-size:12px;padding:6px 14px;border-radius:999px}
+.photo{width:100%;max-width:100%;aspect-ratio:4/5;object-fit:cover;object-position:50% 30%;border-radius:22px;border:5px solid var(--card)}
+.who{font-size:15px;color:var(--soft)}
+.who b{font-family:var(--bold);color:var(--ink)}
+.checks{list-style:none;padding:0;margin:0;display:flex;flex-direction:column}
+.checks li{border-bottom:1px solid var(--line)}
+.checks label{display:flex;gap:14px;align-items:flex-start;padding:12px 0;cursor:pointer}
+.checks input{appearance:none;flex:0 0 22px;width:22px;height:22px;margin-top:3px;border:2px solid var(--accent);border-radius:6px;display:grid;place-content:center;background:var(--card)}
+.checks input:checked{background:var(--accent)}
+.checks input:checked::after{content:"";width:6px;height:11px;border:solid var(--onaccent);border-width:0 3px 3px 0;transform:rotate(45deg) translate(-1px,-1px)}
+.checks input:focus-visible,.btn:focus-visible,.calc input:focus-visible{outline:3px solid var(--pink);outline-offset:2px}
+.score{background:var(--card);border-radius:14px;padding:16px 18px;border:1px solid var(--line)}
+.score b{font-family:var(--bold);color:var(--accent)}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:14px}
+.card{background:var(--card);border-radius:16px;padding:18px;display:flex;flex-direction:column;gap:8px;min-width:0;border:1px solid var(--line)}
+.card ul{margin:0;padding-left:18px}
+.ba{display:grid;grid-template-columns:auto 1fr;gap:6px 12px;font-size:15.5px}
+.ba b{font-family:var(--label);font-weight:900;font-size:11px;letter-spacing:.14em;color:var(--accent);padding-top:4px}
+.note{background:var(--tint);border-radius:14px;padding:16px 18px}
+.calc{background:var(--card);border-radius:16px;border:1px solid var(--line);padding:18px;display:flex;flex-direction:column;gap:12px}
+.calc .row{display:grid;grid-template-columns:1fr 160px;gap:12px;align-items:center}
+.calc label{font-size:15.5px}
+.calc input{font:inherit;font-variant-numeric:tabular-nums;width:100%;padding:9px 12px;border-radius:10px;border:1.5px solid var(--line);background:var(--bg);color:var(--ink);text-align:right}
+.calc .total{border-top:2px solid var(--pink);padding-top:12px;font-family:var(--bold);font-size:19px}
+.calc output{font-variant-numeric:tabular-nums;text-align:right;color:var(--accent);font-size:24px}
+.steps{list-style:none;counter-reset:s;padding:0;margin:0;display:flex;flex-direction:column}
+.steps li{counter-increment:s;display:grid;grid-template-columns:40px 1fr;gap:14px;align-items:start;padding:12px 0;border-bottom:1px solid var(--line)}
+.steps li::before{content:counter(s);width:36px;height:36px;border-radius:50%;background:var(--accent);color:var(--onaccent);font-family:var(--bold);display:grid;place-content:center}
+.cta{background:var(--accent);color:var(--onaccent);border-radius:22px;padding:26px 22px;display:flex;flex-direction:column;gap:14px}
+.cta h2,.cta h2 i{color:var(--onaccent)}
+.cta .kicker{color:var(--onaccent);opacity:.85}
+.contact{display:flex;flex-direction:column;gap:8px}
+.line{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+.line span{user-select:all;font-variant-numeric:tabular-nums}
+.btn{font:inherit;font-family:var(--label);font-weight:800;font-size:13px;letter-spacing:.06em;border:0;border-radius:999px;padding:6px 14px;background:var(--onaccent);color:var(--accent);cursor:pointer}
+.legal{font-size:13px;color:var(--soft)}
+@media (max-width:560px){.cover{grid-template-columns:1fr}.photo{max-width:320px}.calc .row{grid-template-columns:1fr 130px}}
+@media (prefers-reduced-motion:no-preference){.checks input{transition:background .15s}}
+</style>
+
+<div class="wrap">
+
+<header class="cover">
+  <div class="text">
+    <span class="badge">FREE GUIDE</span>
+    <p class="kicker">Rightsizing in Carroll County, MD + PA</p>
+    <h1>Your Next <i>Home</i> Guide</h1>
+    <p class="lead">For families who need more land, less upkeep, or simply a home that fits the life you actually live.</p>
+    <p class="who"><b>Nikki Nail, REALTOR®</b><br>Carroll County local and travel sports mom<br>Shelley Home Group of Cummings &amp; Co Realtors</p>
+  </div>
+  <img class="photo" src="data:image/jpeg;base64,__PHOTO__" alt="Nikki Nail at a Carroll County farm at golden hour">
+</header>
+
+<section aria-labelledby="s1">
+  <p class="kicker">Step 1</p>
+  <h2 id="s1">Is it time for <i>your next home?</i></h2>
+  <p class="lead">Tap every one that sounds like your house right now.</p>
+  <ul class="checks" id="checks">
+    <li><label><input type="checkbox" id="c1">You spend more Saturdays cleaning rooms nobody uses than enjoying them.</label></li>
+    <li><label><input type="checkbox" id="c2">You're gone every weekend for travel sports and the yard still needs mowing.</label></li>
+    <li><label><input type="checkbox" id="c3">The kids share rooms and there's nowhere to spread out.</label></li>
+    <li><label><input type="checkbox" id="c4">You have plenty of house but no flat land to play on.</label></li>
+    <li><label><input type="checkbox" id="c5">Stairs, upkeep or utility bills feel heavier every year.</label></li>
+    <li><label><input type="checkbox" id="c6">The kids moved out and the quiet feels too big.</label></li>
+    <li><label><input type="checkbox" id="c7">You want a shorter drive to work, school or the fields.</label></li>
+    <li><label><input type="checkbox" id="c8">You're heating and cooling space you never use.</label></li>
+    <li><label><input type="checkbox" id="c9">You want room for a garden, animals, a workshop or a pool.</label></li>
+    <li><label><input type="checkbox" id="c10">You've said "someday" for more than a year.</label></li>
+  </ul>
+  <p class="score" id="score" aria-live="polite"><b>0 of 10 checked.</b> Three or more means it's worth a 20 minute conversation. Not a commitment, just a plan.</p>
+</section>
+
+<section aria-labelledby="s2">
+  <p class="kicker">Step 2</p>
+  <h2 id="s2">Which move <i>fits you?</i></h2>
+  <p class="lead">Rightsizing isn't always smaller. It's the home that fits this season of your family.</p>
+  <div class="grid">
+    <div class="card"><h3>Move up</h3><p class="small">More room for a growing family</p><ul><li>Bedrooms for everyone</li><li>A mudroom for the sports gear</li><li>A yard the kids and dog can use</li></ul></div>
+    <div class="card"><h3>Move down</h3><p class="small">Less upkeep, more life</p><ul><li>Main level living</li><li>Little or no mowing</li><li>Lock and leave for tournament weekends</li></ul></div>
+    <div class="card"><h3>Move out</h3><p class="small">More land, maybe less house</p><ul><li>Acreage over square footage</li><li>A flat yard for practice</li><li>Room for animals or a shop</li></ul></div>
+  </div>
+</section>
+
+<section aria-labelledby="s3">
+  <p class="kicker">Real life in Carroll County</p>
+  <h2 id="s3">What rightsizing <i>looks like here</i></h2>
+  <div class="grid">
+    <div class="card"><h3>Done mowing, busy with travel sports</h3><div class="ba"><b>BEFORE</b><span>A big lawn and three hours of mowing every week, and you're gone every Saturday anyway.</span><b>AFTER</b><span>A smaller yard, or lawn care that's covered or easy to hire out.</span></div></div>
+    <div class="card"><h3>A flat yard for soccer practice</h3><div class="ba"><b>BEFORE</b><span>A Westminster home on a hill where the ball rolls into the neighbor's yard.</span><b>AFTER</b><span>A flat, usable lot with room for a goal, a garden and the dog.</span></div></div>
+    <div class="card"><h3>Too much house, not enough land</h3><div class="ba"><b>BEFORE</b><span>Five bedrooms, two of them storage, on a small lot.</span><b>AFTER</b><span>A house sized for how you live, on a few acres.</span></div></div>
+    <div class="card"><h3>The kids moved out</h3><div class="ba"><b>BEFORE</b><span>A two story colonial with stairs and rooms that stay closed.</span><b>AFTER</b><span>Main level living near Main Street dinners and the grandkids' games.</span></div></div>
+  </div>
+  <p class="small">Example situations, not specific client results. Every family's numbers are different.</p>
+</section>
+
+<section aria-labelledby="s4">
+  <p class="kicker">Step 3</p>
+  <h2 id="s4">Buy first or <i>sell first?</i></h2>
+  <div class="grid">
+    <div class="card"><h3>Sell first</h3><p>You know exactly what you can spend. Ask for extra time or a short rent back so you only move once.</p></div>
+    <div class="card"><h3>Buy first</h3><p>Move on your schedule. Your lender shows you if carrying both homes for a short time or using your equity works.</p></div>
+    <div class="card"><h3>Home sale contingency</h3><p>Your offer depends on your home selling. It works best when your home is priced and prepped to go fast.</p></div>
+    <div class="card"><h3>Time both together</h3><p>Both settlements on the same day or week, so you go straight from one home to the next.</p></div>
+  </div>
+  <p class="note">Your lender and I will map the option that fits your numbers and your calendar, travel sports weekends included.</p>
+</section>
+
+<section aria-labelledby="s5">
+  <p class="kicker">Step 4</p>
+  <h2 id="s5">Know <i>your numbers</i></h2>
+  <p class="lead">A quick estimate of the equity you could bring to your next home. Nothing you type here is saved or sent.</p>
+  <div class="calc">
+    <div class="row"><label for="v">What my home could sell for</label><input id="v" inputmode="numeric" placeholder="$550,000" value="$550,000"></div>
+    <div class="row"><label for="o">What I still owe</label><input id="o" inputmode="numeric" placeholder="$260,000" value="$260,000"></div>
+    <div class="row"><label for="c">Selling costs and prep</label><input id="c" inputmode="numeric" placeholder="$36,000" value="$36,000"></div>
+    <div class="row total"><span>Equity for your next home</span><output id="eq" for="v o c">$254,000</output></div>
+    <p class="small">The starting numbers are only an example. Want the real number? I'll send a free home value report based on actual Carroll County sales.</p>
+  </div>
+</section>
+
+<section aria-labelledby="s6">
+  <p class="kicker">Step 5</p>
+  <h2 id="s6">Get your home <i>ready</i></h2>
+  <div class="grid">
+    <div class="card"><h3>Sort room by room</h3><ul><li>Keep what you use and love</li><li>Give to family and friends</li><li>Sell what won't fit</li><li>Store only what's seasonal</li></ul></div>
+    <div class="card"><h3>Prep that pays</h3><ul><li>Fresh neutral paint</li><li>New carpet or refreshed floors</li><li>Small fixes buyers notice</li></ul><p class="small">I can line up paint, flooring and touch ups with my own contractor, and you don't pay until settlement.</p></div>
+  </div>
+</section>
+
+<section aria-labelledby="s7">
+  <p class="kicker">Step 6</p>
+  <h2 id="s7">Buying land in <i>Carroll County</i></h2>
+  <ul class="checks">
+    <li><label><input type="checkbox" id="l1">Well and septic inspections, plus water testing</label></li>
+    <li><label><input type="checkbox" id="l2">Heating type: propane, oil, heat pump or gas</label></li>
+    <li><label><input type="checkbox" id="l3">Zoning and any farmland preservation easements</label></li>
+    <li><label><input type="checkbox" id="l4">Permits for barns, fencing, pools or animals</label></li>
+    <li><label><input type="checkbox" id="l5">Internet and cell service at the house</label></li>
+    <li><label><input type="checkbox" id="l6">How flat and usable the yard really is</label></li>
+    <li><label><input type="checkbox" id="l7">Drive time to work, school and the fields</label></li>
+  </ul>
+</section>
+
+<section aria-labelledby="s8">
+  <p class="kicker">Your plan</p>
+  <h2 id="s8">Your 90 day <i>next home plan</i></h2>
+  <ol class="steps">
+    <li><span><b>Week 1:</b> a 20 minute Next Home call and your free home value report</span></li>
+    <li><span><b>Weeks 2 to 3:</b> talk with a trusted lender and choose buy first or sell first</span></li>
+    <li><span><b>Weeks 3 to 6:</b> sort, declutter and prep with my contractor</span></li>
+    <li><span><b>Weeks 4 to 8:</b> tour homes that fit your must haves</span></li>
+    <li><span><b>Weeks 6 to 10:</b> list with photos, video and a launch plan</span></li>
+    <li><span><b>Weeks 10 to 13:</b> contracts, inspections and timed settlements. Move once.</span></li>
+  </ol>
+</section>
+
+<section class="cta" aria-labelledby="s9">
+  <p class="kicker">Ready when you are</p>
+  <h2 id="s9">Let's find <i>your next home</i></h2>
+  <p>Book your free 20 minute Next Home call. No pressure, just a plan.</p>
+  <div class="contact">
+    <div class="line"><span>410.746.6238</span><button class="btn" type="button" data-copy="410-746-6238">Copy</button></div>
+    <div class="line"><span>Nikki@theShelleyHomeGroup.com</span><button class="btn" type="button" data-copy="Nikki@theShelleyHomeGroup.com">Copy</button></div>
+    <div class="line"><span>ShelleyHomeGroup.com</span></div>
+    <div class="line"><span>Office 410.823.0033 · 56 Main St, Westminster, MD 21157</span></div>
+  </div>
+</section>
+
+<p class="legal">Nikki Nail, REALTOR®, Shelley Home Group of Cummings &amp; Co Realtors. Information is general and not financial or legal advice. Talk with your lender, attorney and tax advisor about your situation. Equal Housing Opportunity.</p>
+</div>
+
+<script>
+(function(){
+  var boxes=[].slice.call(document.querySelectorAll('#checks input'));
+  var score=document.getElementById('score');
+  function upd(){var n=boxes.filter(function(b){return b.checked}).length;
+    score.innerHTML='<b>'+n+' of 10 checked.</b> '+(n>=3?'That\'s a sign. Let\'s talk through your options on a free 20 minute Next Home call.':'Three or more means it\'s worth a 20 minute conversation. Not a commitment, just a plan.');}
+  boxes.forEach(function(b){b.addEventListener('change',upd)}); upd();
+  function num(id){var v=(document.getElementById(id).value||'').replace(/[^0-9.]/g,'');return parseFloat(v)||0}
+  function money(n){return (n<0?'-':'')+'$'+Math.abs(Math.round(n)).toLocaleString('en-US')}
+  function calc(){document.getElementById('eq').textContent=money(num('v')-num('o')-num('c'))}
+  ['v','o','c'].forEach(function(id){var el=document.getElementById(id);
+    el.addEventListener('input',calc);
+    el.addEventListener('blur',function(){if(el.value.trim()!=='')el.value=money(num(id))})});
+  calc();
+  document.querySelectorAll('[data-copy]').forEach(function(btn){btn.addEventListener('click',function(){
+    var t=btn.getAttribute('data-copy');
+    function done(){btn.textContent='Copied'; setTimeout(function(){btn.textContent='Copy'},1500)}
+    function fallback(){var r=document.createRange(); r.selectNodeContents(btn.previousElementSibling); var s=getSelection(); s.removeAllRanges(); s.addRange(r); btn.textContent='Selected'}
+    try{navigator.clipboard.writeText(t).then(done,fallback)}catch(e){fallback()}
+  })});
+})();
+</script>
