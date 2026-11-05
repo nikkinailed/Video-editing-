@@ -150,9 +150,13 @@ Shelley Home Group of Cummings & Co Realtors
 
 ## Reel 5: 3 reasons families love downtown Westminster (Mix 2, keyword LOCAL)
 
-File: reels/westminster_3reasons_mix2.mp4 (19 seconds, no sound so you can add a trending song in Instagram)
+Hook test: two versions, identical except the opening words.
+* Hook A: reels/westminster_hookA_3reasons.mp4 opens with "3 reasons families love living near downtown Westminster"
+* Hook B: reels/westminster_hookB_why.mp4 opens with "Why families love living near downtown Westminster"
 
-On screen: 3 reasons families love living near downtown Westminster. Walk to dinner, coffee and shops. Local shops that know your name. Fall on Main Street is a whole mood. Comment LOCAL for my free Carroll County guide: farms, parks + family spots.
+Both are 19 seconds with no sound so you can add a trending song in Instagram. For a fair test, use the same caption, song and posting time of day on both, a few days apart. Compare views, average watch time and shares after 7 days each.
+
+On screen (after the hook): Walk to dinner, coffee and shops. Local shops that know your name. Fall on Main Street is a whole mood. Comment LOCAL for my free Carroll County guide: farms, parks + family spots.
 
 ### Caption option A (the list)
 3 reasons families love living near downtown Westminster 🍂
