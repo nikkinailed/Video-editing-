@@ -1,0 +1,152 @@
+{
+ "cards": [
+  {
+   "seg": 0,
+   "y": 820,
+   "lines": [
+    [
+     "3 reasons families",
+     "caps"
+    ],
+    [
+     "love living near",
+     "caps"
+    ],
+    [
+     "downtown",
+     "pink"
+    ],
+    [
+     "Westminster",
+     "pink"
+    ]
+   ]
+  },
+  {
+   "seg": 2,
+   "y": 1080,
+   "lines": [
+    [
+     "1.",
+     "num"
+    ],
+    [
+     "Walk to dinner,",
+     "body"
+    ],
+    [
+     "coffee and shops",
+     "body"
+    ]
+   ]
+  },
+  {
+   "seg": 4,
+   "y": 1080,
+   "lines": [
+    [
+     "2.",
+     "num"
+    ],
+    [
+     "Local shops that",
+     "body"
+    ],
+    [
+     "know your name",
+     "body"
+    ]
+   ]
+  },
+  {
+   "seg": 7,
+   "y": 1080,
+   "lines": [
+    [
+     "3.",
+     "num"
+    ],
+    [
+     "Fall on Main Street",
+     "body"
+    ],
+    [
+     "is a whole mood",
+     "body"
+    ]
+   ]
+  },
+  {
+   "seg": 9,
+   "y": 1000,
+   "lines": [
+    [
+     "Comment LOCAL",
+     "body"
+    ],
+    [
+     "for my free Carroll County guide:",
+     "small"
+    ],
+    [
+     "farms, parks + family spots",
+     "small"
+    ]
+   ]
+  }
+ ],
+ "segments": [
+  {
+   "src": "/root/.claude/uploads/e710ced6-f643-51c7-9ada-d0f48dc71f03/97e2eb1f-IMG_7460.mov",
+   "start": 0,
+   "dur": 1.75,
+   "zoom": 1.45,
+   "align": "right"
+  },
+  {
+   "src": "/root/.claude/uploads/e710ced6-f643-51c7-9ada-d0f48dc71f03/cb599b00-IMG_7463.mov",
+   "start": 1.0,
+   "dur": 1.6
+  },
+  {
+   "src": "/root/.claude/uploads/e710ced6-f643-51c7-9ada-d0f48dc71f03/4a615a3e-IMG_7479.mov",
+   "start": 0.5,
+   "dur": 2.0
+  },
+  {
+   "src": "/root/.claude/uploads/e710ced6-f643-51c7-9ada-d0f48dc71f03/e2014e65-IMG_7464.mov",
+   "start": 1.0,
+   "dur": 2.0
+  },
+  {
+   "src": "/root/.claude/uploads/e710ced6-f643-51c7-9ada-d0f48dc71f03/f6530db6-IMG_7476.mov",
+   "start": 1.0,
+   "dur": 2.0
+  },
+  {
+   "src": "/root/.claude/uploads/e710ced6-f643-51c7-9ada-d0f48dc71f03/3cd11ab3-IMG_7475.mov",
+   "start": 1.0,
+   "dur": 1.8
+  },
+  {
+   "src": "/root/.claude/uploads/e710ced6-f643-51c7-9ada-d0f48dc71f03/2202129b-IMG_7482.mov",
+   "start": 0.5,
+   "dur": 2.0
+  },
+  {
+   "src": "/root/.claude/uploads/e710ced6-f643-51c7-9ada-d0f48dc71f03/5f09066b-IMG_7481.mov",
+   "start": 1.0,
+   "dur": 2.0
+  },
+  {
+   "src": "/root/.claude/uploads/e710ced6-f643-51c7-9ada-d0f48dc71f03/45e65e49-IMG_7477.mov",
+   "start": 0.4,
+   "dur": 2.0
+  },
+  {
+   "src": "/root/.claude/uploads/e710ced6-f643-51c7-9ada-d0f48dc71f03/8f5038e3-IMG_7485.mov",
+   "start": 0.8,
+   "dur": 3.2
+  }
+ ]
+}

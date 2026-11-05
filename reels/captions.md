@@ -147,3 +147,40 @@ Nikki Nail | REALTOR®
 Shelley Home Group of Cummings & Co Realtors
 
 #CarrollCountyMD #MovingToMaryland #WestminsterMD #EldersburgMD #CarrollCountyRealEstate
+
+## Reel 5: 3 reasons families love downtown Westminster (Mix 2, keyword LOCAL)
+
+File: reels/westminster_3reasons_mix2.mp4 (20 seconds, no sound so you can add a trending song in Instagram)
+
+On screen: 3 reasons families love living near downtown Westminster. 1. Walk to dinner, coffee and shops. 2. Local shops that know your name. 3. Fall on Main Street is a whole mood. Comment LOCAL for my free Carroll County guide: farms, parks + family spots.
+
+### Caption option A (the list)
+3 reasons families love living near downtown Westminster 🍂
+
+1. Dinner, coffee and shops are a walk away
+2. The shop owners actually know your name
+3. Fall on Main Street is a whole mood
+
+Which one is your favorite? Tell me below 👇
+
+Comment LOCAL and I'll send you my free Carroll County guide with the farms, parks and family spots we love.
+
+I'm Nikki, your rightsizing specialist and a local sports mom, foodie and home enthusiast! 🏡
+Nikki Nail | REALTOR®
+Shelley Home Group of Cummings & Co Realtors
+📱 410.746.6238
+✉️ nikki@theshelleyhomegroup.com
+
+#WestminsterMD #CarrollCountyMD #MainStreetWestminster #MarylandFall #CarrollCountyRealEstate
+
+### Caption option B (rightsizing)
+Thinking about less house and more life? 👀
+
+Downtown Westminster is where you can walk to pizza, grab a coffee and still know everyone on the block. Whether you're sizing up or downsizing, this little stretch of Carroll County is hard to beat.
+
+Comment LOCAL for my free Carroll County guide 💜
+
+Nikki Nail | REALTOR®
+Shelley Home Group of Cummings & Co Realtors
+
+#WestminsterMD #CarrollCountyMD #RightsizingMD #DownsizingMaryland #CarrollCountyRealEstate
