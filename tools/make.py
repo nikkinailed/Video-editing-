@@ -51,11 +51,11 @@ json.dump(dict(base=PB,
  beats=[beat(0,3.2,170,[L("that feeling when you stop",48),A("taking care of a house",100),A("you're never home for",100)],max_y=640),
         beat(3.2,6.2,170,[L("too many rooms to clean",48),L("a yard you never use",48),A("gone every weekend",104),A("for travel sports",104)],max_y=640),
         beat(6.2,9.2,170,[L("less house",48),A("more life",116)],max_y=640),
-        beat(9.2,14,170,[C("COMMENT NEXT"),A("for my free",100),A("next chapter guide",100),L("rightsizing made simple",42)],max_y=640)]),
+        beat(9.2,14,170,[C("COMMENT NEXT"),A("and let's find",100),A("your next home",100),L("free Next Home Guide inside",42)],max_y=640)]),
  open(O+"porch_rightsize.json","w"))
 json.dump(dict(base=PB,
  beats=[beat(0,3.2,170,[L("too much house",52),A("not enough land",116)],max_y=640),
         beat(3.2,6.2,170,[L("bedrooms nobody uses",48),L("a backyard you can see across",48),A("and no room to roam",104)],max_y=640),
         beat(6.2,9.2,170,[L("trade the square footage",48),A("for acreage",116)],max_y=640),
-        beat(9.2,14,170,[C("COMMENT NEXT"),A("for my free",100),A("next chapter guide",100),L("more land, less upkeep",42)],max_y=640)]),
+        beat(9.2,14,170,[C("COMMENT NEXT"),A("and let's find",100),A("your next home",100),L("free Next Home Guide inside",42)],max_y=640)]),
  open(O+"porch_land.json","w"))

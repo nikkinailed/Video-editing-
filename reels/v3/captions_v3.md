@@ -1,6 +1,6 @@
 # Reels v3: hook, pain point, payoff, clear CTA (drafts for Nikki to approve)
 
-Keywords: NEXT = Next Chapter rightsizing guide. LOCAL = Carroll County local guide. HOME = home buyer guide. MOVING = move up guide. FALL = fall guide.
+Keywords: NEXT = Next Home rightsizing guide. LOCAL = Carroll County local guide. HOME = home buyer guide. MOVING = move up guide. FALL = fall guide.
 Add soft trending audio in Instagram or Edits.
 
 ## Oct 29: Pumpkin field (pumpkin_v3.mp4), one slow clip, keyword LOCAL
@@ -146,7 +146,7 @@ On screen, in order:
 1. that feeling when you stop taking care of a house you're never home for
 2. too many rooms to clean, a yard you never use, gone every weekend for travel sports
 3. less house, more life
-4. COMMENT NEXT for my free next chapter guide (rightsizing made simple)
+4. COMMENT NEXT and let's find your next home (free Next Home Guide inside)
 
 ### Caption
 Raise your hand if your house gets more attention on Sunday night than you do 🙋‍♀️
@@ -155,7 +155,7 @@ Too many rooms to clean. A yard you mow but never sit in. And every weekend you'
 
 Rightsizing isn't giving something up. It's getting your weekends back.
 
-Comment NEXT and I'll send you my free Next Chapter Guide: the signs it's time, buy first or sell first, your numbers worksheet and a simple 90 day plan.
+Comment NEXT and let's find your next home. I'll send you my free Next Home Guide with the signs it's time, buy first or sell first, a numbers worksheet and a simple 90 day plan.
 
 I'm Nikki, a local sports mom, foodie and home enthusiast! 🏡
 Nikki Nail | REALTOR®
@@ -170,7 +170,7 @@ On screen, in order:
 1. too much house, not enough land
 2. bedrooms nobody uses, a backyard you can see across, and no room to roam
 3. trade the square footage for acreage
-4. COMMENT NEXT for my free next chapter guide (more land, less upkeep)
+4. COMMENT NEXT and let's find your next home (free Next Home Guide inside)
 
 ### Caption
 Too much house. Not enough land. 🌾
@@ -179,7 +179,7 @@ Bedrooms nobody sleeps in. A backyard you can see across in two steps. And kids 
 
 Sometimes the right move isn't bigger. It's more land and a house that fits how you actually live.
 
-Comment NEXT and I'll send you my free Next Chapter Guide with my Carroll County land checklist, buy first or sell first options and a simple 90 day plan.
+Comment NEXT and let's find your next home. I'll send you my free Next Home Guide with my Carroll County land checklist, buy first or sell first options and a simple 90 day plan.
 
 I'm Nikki, a local sports mom, foodie and home enthusiast! 🏡
 Nikki Nail | REALTOR®
