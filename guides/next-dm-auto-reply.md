@@ -31,7 +31,7 @@ Here's your free Next Home Guide: {guide link}
 
 It opens right on your phone.
 
-Start with the checklist on page 1. If you check 3 or more, it's worth a quick conversation.
+Start with the checklist at the top. If you check 3 or more, it's worth a quick conversation.
 
 Talk soon,
 Nikki Nail, REALTOR®
@@ -41,7 +41,7 @@ Shelley Home Group of Cummings & Co Realtors
 ## Email 2 (day 2): subject "Buy first or sell first?"
 Hi {first name},
 
-It's the number one question I get from Carroll County families. There are 4 ways to do it, and the right one depends on your equity and your calendar. Page 3 of your guide walks through each one.
+It's the number one question I get from Carroll County families. There are 4 ways to do it, and the right one depends on your equity and your calendar. Step 3 in your guide walks through each one.
 
 Reply with your address and I'll send a free home value report so you know your real number, not an online guess.
 
