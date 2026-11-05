@@ -15,7 +15,7 @@ Middle of every version: "Walk to dinner, coffee and shops", "Local shops that k
 
 Tag the shops (look up their Instagram handles): Life is Pizza, Village Pilates, American Ice Café.
 
-Results: Nikki pulls numbers on Thu Nov 26 (Claude reminds her). Best opening = watch time and views of #1 + #2 vs #3 + #4. Best ending = LOCAL comments on #1 + #3 vs new followers from #2 + #4. Please make sure the LOCAL guide is ready to send when #1 goes out.
+Results: Nikki pulls numbers on Fri Nov 27 (Claude reminds her). Best opening = watch time and views of #1 + #2 vs #3 + #4. Best ending = LOCAL comments on #1 + #3 vs new followers from #2 + #4. Please make sure the LOCAL guide is ready to send when #1 goes out.
 
 ## Caption D (versions 1 and 3)
 Dinner, coffee and shops a walk away. Shop owners who know your name. Fall on Main Street that never gets old. 🍂
