@@ -150,11 +150,20 @@ Shelley Home Group of Cummings & Co Realtors
 
 ## Reel 5: 3 reasons families love downtown Westminster (Mix 2, keyword LOCAL)
 
-Test: two versions with a different hook AND a different ending.
-* Version A: reels/westminster_hookA_3reasons_local.mp4. Opens "3 reasons families love living near downtown Westminster", ends "Comment LOCAL for my free Carroll County guide: farms, parks + family spots". Use caption A or B.
-* Version B: reels/westminster_hookB_why_follow.mp4. Opens "Why families love living near downtown Westminster", ends "Follow for more Carroll County local spots from a local who loves it here". Use caption C.
+Test: all 4 combinations of 2 openings and 2 endings. Everything else is identical (19 seconds, no sound, add the same trending song to all 4).
 
-Both are 19 seconds with no sound so you can add a trending song in Instagram. Use the same song and time of day on both, a few days apart. After 7 days each compare views, watch time, shares, new followers (B's goal) and LOCAL comments (A's goal).
+| # | File | Opening | Ending | Caption |
+|---|---|---|---|---|
+| 1 | reels/westminster_1_3reasons_local.mp4 | 3 reasons families love living near downtown Westminster | Comment LOCAL for my free Carroll County guide | D |
+| 2 | reels/westminster_2_3reasons_follow.mp4 | 3 reasons families love living near downtown Westminster | Follow for more Carroll County local spots | E |
+| 3 | reels/westminster_3_why_local.mp4 | Why families love living near downtown Westminster | Comment LOCAL for my free Carroll County guide | D |
+| 4 | reels/westminster_4_why_follow.mp4 | Why families love living near downtown Westminster | Follow for more Carroll County local spots | E |
+
+Suggested posting order, same time of day each: #1 Mon Nov 9, #4 Thu Nov 12, #2 Mon Nov 16, #3 Thu Nov 19.
+
+How to read it after each has had 7 days:
+* Opening winner: average watch time and views of #1 + #2 against #3 + #4.
+* Ending winner: LOCAL comments of #1 + #3 against new followers of #2 + #4.
 
 On screen (after the hook): Walk to dinner, coffee and shops. Local shops that know your name. Fall on Main Street is a whole mood. Comment LOCAL for my free Carroll County guide: farms, parks + family spots.
 
@@ -193,6 +202,30 @@ Shelley Home Group of Cummings & Co Realtors
 Why do so many families fall for downtown Westminster? 🍂
 
 Dinner, coffee and shops a walk away. Shop owners who know your name. And fall on Main Street that hits different every single year.
+
+Follow along for more of my favorite Carroll County spots from a local who loves it here 💜
+
+Nikki Nail | REALTOR®
+Shelley Home Group of Cummings & Co Realtors
+
+#WestminsterMD #CarrollCountyMD #MainStreetWestminster #MarylandFall #CarrollCountyRealEstate
+
+### Caption option D (4 combination test, LOCAL versions #1 and #3)
+Dinner, coffee and shops a walk away. Shop owners who know your name. Fall on Main Street that never gets old. 🍂
+
+That's downtown Westminster for you.
+
+Comment LOCAL and I'll send you my free Carroll County guide with the farms, parks and family spots we love 💜
+
+Nikki Nail | REALTOR®
+Shelley Home Group of Cummings & Co Realtors
+
+#WestminsterMD #CarrollCountyMD #MainStreetWestminster #MarylandFall #CarrollCountyRealEstate
+
+### Caption option E (4 combination test, follow versions #2 and #4)
+Dinner, coffee and shops a walk away. Shop owners who know your name. Fall on Main Street that never gets old. 🍂
+
+That's downtown Westminster for you.
 
 Follow along for more of my favorite Carroll County spots from a local who loves it here 💜
 
