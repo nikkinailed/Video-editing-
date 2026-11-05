@@ -1,7 +1,8 @@
 # NEXT keyword: DM auto reply and follow up (drafts for Nikki's OK)
 
-Flow: they comment NEXT ➝ DM 1 asks for their email ➝ DM 2 sends the guide link and PDF ➝ emails 1 to 3.
-Guide: "Your Next Home Guide" (web page link from Nikki's Share menu once she makes it public, plus guides/Next-Home-Guide-Nikki-Nail.pdf).
+Rules: always ask for the email first. The guide is always sent as a link, never as a PDF attachment.
+Flow: they comment NEXT ➝ DM 1 asks for their email ➝ DM 2 sends the guide link ➝ emails 1 to 4.
+Guide link: https://claude.ai/artifact/HjRVJ97zMg6oNba5rT6fzy (Nikki makes it viewable by anyone with the link from its Share menu).
 
 ## Public comment reply (posted under their comment)
 Just sent it to your DMs! 💜 Let's find your next home.
@@ -19,14 +20,16 @@ Here's the link too so you can open it right now: {guide link}
 Quick question so I can send what actually helps: are you thinking more space, less upkeep, or more land? 💜
 
 ## DM 3 (if no email after 24 hours)
-Hi {first name}! Here's your Next Home Guide link so you don't miss it: {guide link}
+Hi {first name}! I don't want you to miss your Next Home Guide 🏡
 
-If you ever want a free home value report or a 20 minute Next Home call, just reply here. No pressure at all. 🏡
+Just reply with your best email and I'll send the link right over. It only takes a second to open on your phone.
 
 ## Email 1 (immediately): subject "Your Next Home Guide is here 🏡"
 Hi {first name},
 
-Here's your free Next Home Guide: {guide link} (PDF attached too).
+Here's your free Next Home Guide: {guide link}
+
+It opens right on your phone.
 
 Start with the checklist on page 1. If you check 3 or more, it's worth a quick conversation.
 

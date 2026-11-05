@@ -2,9 +2,11 @@
 
 Always use these. Every on screen CTA and caption says what they get.
 
+Delivery rules for every keyword: always ask for their email first, and always send the guide as a link, never as an attachment.
+
 | Keyword | Sends | Use for |
 |---|---|---|
-| NEXT | Next Home Guide, the rightsizing guide (guides/Next-Home-Guide-Nikki-Nail.pdf). NEXT means "your next home." CTA wording: "Comment NEXT and let's find your next home." | Every rightsizing reel or post: moving up, moving down, more land, less upkeep |
+| NEXT | Next Home Guide, the rightsizing guide (link: https://claude.ai/artifact/HjRVJ97zMg6oNba5rT6fzy). NEXT means "your next home." CTA wording: "Comment NEXT and let's find your next home." | Every rightsizing reel or post: moving up, moving down, more land, less upkeep |
 | MOVING | Move up guide | Relocation and move up content |
 | LOCAL | Carroll County local guide | Local pride, things to do, community reels |
 | HOME | Home buyer guide | Buyer content |
