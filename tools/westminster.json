@@ -27,10 +27,6 @@
    "y": 1080,
    "lines": [
     [
-     "1.",
-     "num"
-    ],
-    [
      "Walk to dinner,",
      "body"
     ],
@@ -45,10 +41,6 @@
    "y": 1080,
    "lines": [
     [
-     "2.",
-     "num"
-    ],
-    [
      "Local shops that",
      "body"
     ],
@@ -62,10 +54,6 @@
    "seg": 7,
    "y": 260,
    "lines": [
-    [
-     "3.",
-     "num"
-    ],
     [
      "Fall on Main Street",
      "body"
