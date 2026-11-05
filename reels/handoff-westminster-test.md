@@ -13,7 +13,7 @@ Font: Mix 2 (counts toward the font test that checks results on November 11).
 
 Middle of every version: "Walk to dinner, coffee and shops", "Local shops that know your name", "Fall on Main Street is a whole mood" (Nikki walking under the fall trees).
 
-Tag the shops (look up their Instagram handles): Life is Pizza, Village Pilates, American Ice Café. Jean Bird may be in the café building: Nikki to confirm before tagging.
+Tag the shops (look up their Instagram handles): Life is Pizza, Village Pilates, American Ice Café.
 
 Results: Nikki pulls numbers on Thu Nov 26 (Claude reminds her). Best opening = watch time and views of #1 + #2 vs #3 + #4. Best ending = LOCAL comments on #1 + #3 vs new followers from #2 + #4. Please make sure the LOCAL guide is ready to send when #1 goes out.
 

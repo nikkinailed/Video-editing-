@@ -165,7 +165,7 @@ How to read it after each has had 7 days:
 * Opening winner: average watch time and views of #1 + #2 against #3 + #4.
 * Ending winner: LOCAL comments of #1 + #3 against new followers of #2 + #4.
 
-Shops in the video (tag them so they share it): Life is Pizza (pizzeria window), Village Pilates (striped awning), American Ice Café (coffee shop). Jean Bird may be in the same building as the café: Nikki to confirm. Look up each shop's Instagram handle before posting and tag them in the caption or invite them as collaborators.
+Shops in the video (tag them so they share it): Life is Pizza (pizzeria window), Village Pilates (striped awning), American Ice Café (coffee shop). Look up each shop's Instagram handle before posting and tag them in the caption or invite them as collaborators.
 
 On screen (after the hook): Walk to dinner, coffee and shops. Local shops that know your name. Fall on Main Street is a whole mood. Comment LOCAL for my free Carroll County guide: farms, parks + family spots.
 
