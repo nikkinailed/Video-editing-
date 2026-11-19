@@ -11,6 +11,7 @@ Delivery rules for every keyword: always ask for their email first, and always s
 | LOCAL | Carroll County local guide | Local pride, things to do, community reels |
 | HOME | Home buyer guide | Buyer content |
 | DEAL | Deal of the Week | Deal of the Week post only |
+| WIN | Local spot gift card giveaway entry (DM asks email, then sends the LOCAL guide link) | Local spot giveaway reels only. See giveaways/GIVEAWAY-PLAYBOOK.md |
 | FALL, WINTER, SPRING, SUMMER | Matching seasonal guide | Seasonal local content |
 
 Retired, do not use: MOVE UP, BUYER, SELL, LAND, GRANT, ROUND.

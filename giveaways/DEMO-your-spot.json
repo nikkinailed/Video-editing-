@@ -1,0 +1,9 @@
+{"place": "[YOUR SPOT]", "town": "Westminster", "amount": 50, "end": "Sunday", "hook": 2, "cta_y": 900, "max_y": 1500,
+ "loves": ["the locals all know it", "the owners know your name", "and it's worth the wait"],
+ "clips": [
+  {"src": "/root/.claude/uploads/2ff7ae43-88db-5b34-b1bf-56000836fa59/7372f3c0-IMG_5422.mov", "start": 0.3, "dur": 1.6},
+  {"src": "/root/.claude/uploads/2ff7ae43-88db-5b34-b1bf-56000836fa59/a5006ac5-dupe.mov", "start": 2.0, "dur": 1.2},
+  {"src": "/root/.claude/uploads/2ff7ae43-88db-5b34-b1bf-56000836fa59/7372f3c0-IMG_5422.mov", "start": 3.4, "dur": 1.0},
+  {"src": "/root/.claude/uploads/2ff7ae43-88db-5b34-b1bf-56000836fa59/1064ad2f-image.jpg", "photo": true, "dur": 1.4},
+  {"src": "/root/.claude/uploads/2ff7ae43-88db-5b34-b1bf-56000836fa59/a5006ac5-dupe.mov", "start": 4.5, "dur": 1.0},
+  {"src": "/root/.claude/uploads/2ff7ae43-88db-5b34-b1bf-56000836fa59/034e8c13-IMG_8628.mov", "start": 5.0, "dur": 4.0}]}
