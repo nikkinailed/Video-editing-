@@ -7,12 +7,14 @@ const G = path.resolve(__dirname, '../../guides');
 const CARROLL = {
   file: 'carroll-oct-2026', place: 'Carroll County', month: 'October 2026',
   stats: [
-    { label: 'Median Sale Price', value: null, change: null },
-    { label: 'Homes Sold', value: null, change: null },
-    { label: 'Median Days on Market', value: null, change: null },
-    { label: 'Active Listings', value: null, change: null },
+    { label: 'Median Sale Price', value: '$472,500', change: 'down about 4.5% vs last year', dir: 'down' },
+    { label: 'Homes Sold', value: '168', change: 'up about 12.5% vs last year', dir: 'up' },
+    { label: 'Days to Sell', value: '24', change: 'roughly, give or take' },
+    { label: 'Active Listings', value: '408', change: '2.6 months of supply' },
+    { label: 'New Listings', value: '201', change: '91 went under contract' },
   ],
-  source: 'Source: Bright MLS via Maryland REALTORS®, October 2026',
+  take: 'Prices eased a little. Sales picked up.<br>Sellers still have the edge.',
+  source: 'Sources: Bright MLS October 2026 Carroll County residential report. Year over year trend from Redfin.',
 };
 
 const MARYLAND = {
@@ -56,24 +58,26 @@ const card = (d, theme) => {
   h1{font-family:Fraunces;font-size:118px;line-height:.95;margin:22px 0 6px;position:relative}
   .month{font-family:InstrumentI;font-size:72px;color:${accent};margin-bottom:46px;position:relative}
   .grid{display:grid;grid-template-columns:1fr 1fr;gap:26px;position:relative}
-  .grid.three .tile:first-child{grid-column:1 / span 2}
+  .grid.odd .tile:first-child{grid-column:1 / span 2}
   .tile{background:${tile};border:2px solid ${tileBorder};border-radius:28px;padding:34px 36px;min-height:190px;box-sizing:border-box}
   .val{font-family:Fraunces;font-size:84px;line-height:1;color:${accent};min-height:84px}
   .lab{font-family:Nunito;font-size:28px;margin-top:14px;letter-spacing:.02em}
   .chg{font-size:26px;margin-top:10px;opacity:.85}
   .blank{display:inline-block;width:300px;border-bottom:4px solid ${tileBorder};height:70px}
   .blank.sm{width:120px;height:22px;border-bottom-width:3px}
-  .take{font-family:Instrument;font-size:50px;line-height:1.1;margin:48px 0 0;position:relative}
+  .grid.odd.big .tile{min-height:0;padding:22px 32px}.grid.big .val{font-size:64px;min-height:0}.grid.big .lab{font-size:26px}.grid.big .chg{font-size:24px}.grid.big{gap:20px}.grid.big .lab{margin-top:8px}.grid.big .chg{margin-top:6px}
+  .card.big h1{font-size:104px;margin-top:16px}.card.big .month{font-size:62px;margin-bottom:30px}.card.big .take{font-size:44px;margin-top:30px}.card.big{padding-top:76px}
+  .take{font-family:Instrument;font-size:50px;line-height:1.1;margin:40px 0 0;position:relative}
   .cta{font-family:Nunito;font-size:30px;margin-top:22px;color:${accent}}
   .foot{margin-top:auto;padding-top:28px;display:flex;justify-content:space-between;align-items:flex-end;font-size:22px;line-height:1.45}
   .foot b{font-family:Nunito;font-size:26px}
   .src{font-size:18px;opacity:.7;margin-top:18px}
-</style></head><body><div class="card">
+</style></head><body><div class="card ${d.stats.length > 4 ? 'big' : ''}">
   <div class="kicker">Housing Market Update</div>
   <h1>${d.place}</h1>
   <div class="month">${d.month}</div>
-  <div class="grid ${d.stats.length === 3 ? 'three' : ''}">${rows}</div>
-  <div class="take">Thinking about moving up or rightsizing?<br>Here is what October told us.</div>
+  <div class="grid ${d.stats.length % 2 ? 'odd' : ''} ${d.stats.length > 4 ? 'big' : ''}">${rows}</div>
+  <div class="take">${d.take || 'Thinking about moving up or rightsizing?<br>Here is what October told us.'}</div>
   <div class="cta">Comment NEXT and let's find your next home 🏡</div>
   <div class="foot">
     <div><b>Nikki Nail | REALTOR®</b><br>Shelley Home Group of Cummings &amp; Co Realtors<br>410.746.6238 · nikki@theshelleyhomegroup.com</div>
