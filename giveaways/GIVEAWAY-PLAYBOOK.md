@@ -41,11 +41,15 @@ Stop right here for a chance to win a ${amount} gift card to {place}! 🎉
 {One or two lines in Nikki's voice about why she loves it, with a real detail.}
 
 To enter:
-1️⃣ Follow @nikkinail_mdhomes and @{business handle}
-2️⃣ Comment WIN below
-3️⃣ Check your DMs to finish your entry
+1️⃣ Like this post ❤️
+2️⃣ Follow @nikkinail_mdhomes and @{business handle}
+3️⃣ Comment WIN below
+4️⃣ Check your DMs to finish your entry
 
-Bonus entry: share this to your story and tag me 💜
+Want more chances? 🍀
+➕ Share this to your story and tag me (1 bonus entry)
+➕ Tag a friend who loves {place} in the comments (1 bonus entry per friend, up to 3, one tag per comment)
+➕ Save this post so you remember the drawing day 💜
 
 Winner drawn {end day} at 8pm and announced in my stories. Open to Maryland and Pennsylvania residents 18+. No purchase necessary. Not sponsored, administered or endorsed by Instagram. Full rules in my DMs.
 
@@ -57,11 +61,16 @@ Shelley Home Group of Cummings & Co Realtors
 
 #CarrollCountyMD #{TownMD} #CarrollCountyEats #Giveaway #ShopLocalMaryland
 
+## Engagement tips
+1. Reply to every comment in the first hour, it pushes the post to more locals.
+2. Reshare every story share you're tagged in, then thank them.
+3. Only count tags of real friends, never ask people to tag businesses or accounts that aren't in the post (Instagram's rule against inaccurate tagging).
+
 ## Short official rules (send in DMs when asked, keep a copy)
 {Place} Gift Card Giveaway, hosted by Nikki Nail, Shelley Home Group of Cummings & Co Realtors.
 1. Entry period: {start date} through {end date} at 8pm ET.
-2. Who can enter: legal residents of Maryland and Pennsylvania, 18 or older. One comment entry per person, plus one bonus entry for a story share.
-3. How to enter: comment WIN on the giveaway post. No purchase or transaction necessary, and entering does not create any obligation to buy or sell a home.
+2. Who can enter: legal residents of Maryland and Pennsylvania, 18 or older. One main entry per person (like, follow both accounts, comment WIN and finish the form), plus bonus entries: 1 for sharing the post to their story and tagging @nikkinail_mdhomes, and 1 per friend tagged in a separate comment, up to 3.
+3. How to enter: like the giveaway post, follow @nikkinail_mdhomes and the featured business, and comment WIN. No purchase or transaction necessary, and entering does not create any obligation to buy or sell a home.
 4. Prize: one ${amount} gift card to {place}. No cash value substitution.
 5. Winner: chosen at random from eligible entries, announced in stories and contacted by DM. Winner has 72 hours to respond or a new winner is drawn.
 6. This giveaway is in no way sponsored, endorsed, administered by or associated with Instagram or Meta. Entrants release Instagram from any liability.

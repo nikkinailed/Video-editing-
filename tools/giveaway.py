@@ -28,7 +28,7 @@ def spec(g):
         dict(start=t1, end=t2, y=200, lines=[L(loves[0], 52), L(loves[1], 52), A(loves[2], 100)], max_y=g.get("max_y", 700)),
         dict(start=t2, end=total + 1, y=cta_y, max_y=g.get("max_y", 760), lines=[
             C(f"WIN A ${g['amount']} GIFT CARD"), P(g["place"], g.get("place_size", 96)),
-            A("comment WIN", 100), L(f"to enter by {g['end']}", 44)]),
+            A("comment WIN", 100), L("like + share for bonus entries", 44), L(f"enter by {g['end']}", 44)]),
     ]
     segs = [dict(c) for c in clips]
     return dict(segments=segs, beats=beats)
