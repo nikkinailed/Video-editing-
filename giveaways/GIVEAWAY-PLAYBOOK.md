@@ -17,7 +17,7 @@ Every local place Nikki features gets a gift card giveaway. People comment WIN t
 The first second decides the next thirty.
 
 ## Keyword: WIN
-Comment WIN to enter. Same lead rules as always: ask for their email first, send links, never attachments.
+Comment WIN to enter. The auto DM sends the entry form (name, phone, email) at nikkinail.com/win, and every entry lands in her GoHighLevel contacts tagged giveaway-{place}. Setup: guides/LEAD-CAPTURE-SETUP.md. The manual DMs below are the backup until that's live.
 
 ### Comment reply
 You're in the running! 🎉 Check your DMs to finish your entry 💜

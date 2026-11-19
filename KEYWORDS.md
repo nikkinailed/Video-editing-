@@ -2,7 +2,7 @@
 
 Always use these. Every on screen CTA and caption says what they get.
 
-Delivery rules for every keyword: always ask for their email first, and always send the guide as a link, never as an attachment.
+Delivery rules for every keyword: always collect their email (the auto DM sends a short form link: name, phone, email), and always send the guide as a link, never as an attachment. Setup: guides/LEAD-CAPTURE-SETUP.md
 
 | Keyword | Sends | Use for |
 |---|---|---|
